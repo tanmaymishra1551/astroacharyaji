@@ -14,3 +14,8 @@ Update class with className
 Remove autofocus
 Config vite.config to handle .png file
 
+What to do ?
+1. How to link login and register page from home page 
+2. How to fix images that are not displayed 
+3. Check css to bring blog columna in center.
+
